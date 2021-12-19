@@ -41,5 +41,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedpratap&show_icons=true&locale=en&layout=compact" alt="vedpratap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedpratap&show_icons=true&locale=en" alt="vedpratap" /></p>
+<p align="center">
+  <a href="https://github.com/PulkitSinghDev">
+    <img height="150" width="150" src="https://github.com/vedpratap/vedpratap/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedpratap&" alt="vedpratap" />
+    <img height="150" width="150" src="https://github.com/vedpratap/vedpratap/blob/main/right.png">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedpratap&" alt="vedpratap" /></p>
