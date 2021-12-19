@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/vedpratap_" target="blank"><img src="https://img.shields.io/twitter/follow/vedpratap_?logo=twitter&style=for-the-badge" alt="vedpratap_" /></a> </p>
 
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/vedpratap/vedpratap/blob/main/Code.gif">
+</a>
+
 - 🔭 I’m currently working on **DevDays App Project.**
 
 - 🌱 I’m currently learning **Business Data Management, Modern Application Development and Data Base Management System.**
