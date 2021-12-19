@@ -1,3 +1,4 @@
+![Banner](/Pictures/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ved Pratap</h1>
 <h3 align="center">A passionate programmer and future data scientist from India.</h3>
 
