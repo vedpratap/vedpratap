@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Pratap</h1>
-<h3 align="center">A passionate programmer from India.</h3>
+<h3 align="center">A passionate programmer and future data scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedpratap&label=Profile%20views&color=0e75b6&style=flat" alt="vedpratap" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **DevDays App Project.**
 
-- 🌱 I’m currently learning **Business Data Management, Modern Application Development, Data Base Management System.**
+- 🌱 I’m currently learning **Business Data Management, Modern Application Development and Data Base Management System.**
 
-- 👯 I’m looking to collaborate with **other content creators.**
+- 👯 I’m looking to collaborate with **other content creators and programmers.**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/student.onlinedegree.iitm.ac.in/ved-pratap/home](https://sites.google.com/student.onlinedegree.iitm.ac.in/ved-pratap/home)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences : [resume link to submit.](resume link to submit.)
 
-- ⚡ Fun fact : **I love to watch thriller web series.**
+- ⚡ Fun fact : **I love to watch thriller movies and web series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
