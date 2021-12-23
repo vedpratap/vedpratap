@@ -18,13 +18,11 @@
 
 - 👯 I’m looking to collaborate with **other content creators and programmers.**
 
-- 👨‍💻 All of my projects are available at [my academic portfolio website.](https://sites.google.com/student.onlinedegree.iitm.ac.in/ved-pratap/home)
+- 👨‍💻 All of my projects are available at [my academic portfolio website.](http://vedpratap.me/)
 
 - 💬 Ask me about **Python programming language.**
 
 - 📫 How to reach me : **21f1000886@student.onlinedegree.iitm.ac.in**
-
-- 📄 Know about my experiences : [resume link to submit.](resume link to submit.)
 
 - ⚡ Fun fact : **I love programming, gyming, taking photos and learning new things.I also love to watch thriller movies and web series.**
 
