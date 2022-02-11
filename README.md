@@ -12,19 +12,15 @@
 
 - I'm from Patna, Bihar.
 - Currently, I am pursuing **B.Sc Degree in Data Science and Programming** from **IIT Madras** and working on my skills.
-- 🔭 I’m currently working on **DevDays App Project.**
-
-- 🌱 I’m currently learning **Business Data Management, Modern Application Development and Data Base Management System.**
-
 - 👯 I’m looking to collaborate with **other content creators and programmers.**
 
-- 👨‍💻 All of my projects are available at [my academic portfolio website.](http://vedpratap.me/)
+- 👨‍💻 All of my projects are available at [My Academic Portfolio Website.](http://vedpratap.me/)
 
 - 💬 Ask me about **Python programming language.**
 
 - 📫 How to reach me : **21f1000886@student.onlinedegree.iitm.ac.in**
 
-- ⚡ Fun fact : **I love programming, gyming, taking photos and learning new things.I also love to watch thriller movies and web series.**
+- ⚡ Fun fact : **I love programming, gyming, taking photos and learning new things.I also like to watch thriller movies and web series.**
 
 <h3 align="left">GitHub profile statistics:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedpratap" alt="vedpratap" /></a> </p>
